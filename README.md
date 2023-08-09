@@ -3,7 +3,7 @@
 
 [下载链接2](https://gateway.pinata.cloud/ipfs/bafybeiekz2rpuvpfe2dwbzliuubb3x7fekjmz2svtv6arwgw3o4rj2qw4m/Toy.zip)
 
-[国际服](https://099eqs.gw1.baitech-ipfs.net/ipfs/QmPwaLhrajzL8ic8omUJpwcBS4ePLYscVtWZj5t3g2NUbL?filename=TW.zip)
+[国际服](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
 
 ## 安装
 无需安装, 解压缩到任意位置即可。如果杀毒软件误报，请自行设置排除相关文件夹。解压缩后运行更新程序，会自动下载和更新组件并启动。
