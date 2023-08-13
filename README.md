@@ -3,7 +3,9 @@
 
 [下载链接2](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy.zip)
 
-[国际服](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
+[下载链接3](https://099eqs.gw1.baitech-ipfs.net/ipfs/QmWPT88dKaeYEDdRuPuXDPQhM3CXVNhzWZ2ZW6fJ5bEnBR?Toy.zip)
+
+[国际服专用](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
 
 ## 安装
 无需安装, 解压缩到任意位置即可。如果杀毒软件误报，请自行设置排除相关文件夹。解压缩后运行更新程序，会自动下载和更新组件并启动。
