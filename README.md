@@ -1,6 +1,8 @@
 ## 下载
 [下载链接1](https://pixeldrain.com/u/m6unLkQy)
 
+[下载链接2](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy.zip)
+
 [国际服](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
 
 ## 安装
