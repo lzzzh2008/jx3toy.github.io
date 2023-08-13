@@ -1,7 +1,5 @@
 ## 下载
-[下载链接1](https://pixeldrain.com/u/nanbztBY)
-
-[下载链接2](https://gateway.pinata.cloud/ipfs/bafybeiekz2rpuvpfe2dwbzliuubb3x7fekjmz2svtv6arwgw3o4rj2qw4m/Toy.zip)
+[下载链接1](https://pixeldrain.com/u/m6unLkQy)
 
 [国际服](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
 
