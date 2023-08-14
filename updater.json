@@ -4,12 +4,12 @@
     { "path": "/Log.exe", "hash":"3d3b6e6111082e1d52a83a0cd2b3d7724845bb1f", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmbkFW5HhSxKp9qMx7eobp57RWoAGnwpBBvUiWJ6DSLwrt" },
     { "path": "/Data/c.txt", "hash":"50cc25e4237e4560f9e0fb18af047806e078dd0c", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmVbb5vPvQkvupA6RCqyx2jhWEChuFFJeeBimDg9UaEo2k" },
     { "path": "/Data/e.dat", "hash":"e0a53cfaeb134f6585d70bf15a31513caa7b6a2d", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmfU83NkjsnTXrbcnHLD66DY7YhRRaN8u19z81phQJT3JC" },
-    { "path": "/Data/buff.txt", "hash":"c248d41a0869b244e5e865c5def0dd54365956e7", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmUPUuZTcpgP1LeWGdoRG2482df1sayzf965CyTLZCwvRg" },
+    { "path": "/Data/buff.txt", "hash":"0a1c927147da0c44d1d767c386671d814978c6c5", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmRsR2264f13CbHmcgr11BkQX3qLCUs8U6PqRXion7mMVg" },
     { "path": "/Data/buff_c.txt", "hash":"9715746a862feb6d6ae1aeab7f8dcf56e5113a65", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmYv9FCSXh696a6USobGZi9tsVDZNrXVkXGDCUamDaA7Hs" },
     { "path": "/Data/skill.lua", "hash":"8b7305c98282715334ea1d036b34cd8894c906ce", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmSQW1rRcMN6sRa6FgsSBWi7wkzXnMtoX5qTZjhTdWRzBr" },
     { "path": "/Data/skill_c.lua", "hash":"1ad0f369e6bc4100a11268e3ecddc7a8bb8f94b1", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmXEWXKTXDpJbQdYALPjnxyHH2V7KUmS8M4WokJhNoRJXn" },
     { "path": "/a.bin", "hash":"72a60a6d23dafca620be130c78bbd33f865a1ca9", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmancZ9dH2Lgbw1icu5zTozPzQqBXWu6vyire6vU37hp8h" },
     { "path": "/b.bin", "hash":"dd554ba2d4acf6212eae3db43f8245bf7f50b686", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmX2bYnwS5WvZnm6Xt871aht5f9WqyEY6k4cXhrZ1vTpdj" },
-    { "path": "/c.bin", "hash":"a6201290998f8e1375674cbc7611a85bdb0801c5", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmcVdUSuSGmRq3CThd78gDd8jfv3rQpapWkM1oP2vm7RPu" },
+    { "path": "/c.bin", "hash":"55af8802086a71508e1ca182d8bf45e74ee78103", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmY8H47ugKEm4e1CZSnwqdC94ZMC68q42oCs324w2BfDxd" },
     { "path": "/Macro/Lib_PVP.lua", "hash":"ac4962dc72594a151a9b6fe8ced33730af57a89e", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmQM8qQqYmuDGTJFDRSWeyVBM8QTNgmYR6faySE1w4gE7d" }
 ]
