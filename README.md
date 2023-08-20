@@ -1,9 +1,9 @@
 ## 下载
-[下载链接1](https://pixeldrain.com/u/m6unLkQy)
+[下载链接1](https://099eqs.gw1.baitech-ipfs.net/ipfs/QmWPT88dKaeYEDdRuPuXDPQhM3CXVNhzWZ2ZW6fJ5bEnBR?filename=Toy.zip)
 
-[下载链接2](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy.zip)
+[下载链接2](https://pixeldrain.com/u/m6unLkQy)
 
-[下载链接3](https://099eqs.gw1.baitech-ipfs.net/ipfs/QmWPT88dKaeYEDdRuPuXDPQhM3CXVNhzWZ2ZW6fJ5bEnBR?filename=Toy.zip)
+[下载链接3](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy.zip)
 
 [国际服专用](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
 
