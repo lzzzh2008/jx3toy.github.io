@@ -31,7 +31,7 @@ Edge浏览器 <https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalb
 
 ### 获取测试币
 区块链操作需要 Token（代币）作为 gas（燃料），就像汽车需要加油才能开一样。polygon网络的原生代币是MATIC，账户中需要有MATIC才能和网络交互。  
-测试网的MATIC可以免费领取，以下几个网站可以领测试币，领取时网络选择 Mumbai (Polygon测试网)，需要科学上网。  
+测试网的MATIC可以免费领取，以下几个网站可以领测试币，领取时网络选择 Mumbai (Polygon测试网)，如果在国内需要科学上网。  
 科学上网免费节点分享网站 <https://nodefree.org>, 软件建议用 `Clash`, 打开 `System Proxy`。
 
 <https://faucet.polygon.technology> 一次给0.2个，2分钟领一次，账户中超过0.4个就不给了。  
