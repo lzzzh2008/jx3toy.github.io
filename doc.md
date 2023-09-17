@@ -1028,6 +1028,9 @@ end
 ### xnpc(角色ID, ...)
 指定角色周围符合条件的NPC
 
+### employer(NPCID)
+获取npc的主人角色ID
+
 ### map("地图名")
 是否在指定地图, 在返回 true, 不在返回 false
 
