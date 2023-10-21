@@ -1045,6 +1045,9 @@ end
 ### xnpc(角色ID, ...)
 指定角色周围符合条件的NPC
 
+### pnpc(x, y, z, ...)
+指定位置周围符合条件的NPC
+
 ### employer(NPCID)
 获取npc的主人角色ID
 
