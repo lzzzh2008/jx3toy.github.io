@@ -493,9 +493,6 @@ end
 ### id()
 自己角色ID
 
-### self()
-获取自己的Player对象
-
 ### tid()
 目标角色ID, 没有目标返回 0
 
@@ -1148,9 +1145,6 @@ end
 ### jump()
 跳跃
 
-* self().nJumpCount  当前是第几跳
-* self().nMaxJumpCount  总共能跳几次
-
 ### movef(启停)
 前进
 ```lua
@@ -1278,9 +1272,8 @@ setglobal("主播模式", true)
 
 !> 除了 Main 函数， 其它回调函数中有些触发非常频繁，不要在里面写过多代码，否则性能可能会有问题，造成卡顿
 
-### Main(g_player)
-主循环，每秒调用十几次。  
-g_player是自己的Player对象，预留作为扩展，如果所有宏命令都满足不了需求，可以访问底层接口。
+### Main()
+主循环，每秒调用十几次。
 
 ### OnPrepare(CasterID, SkillName, SkillID, SkillLevel, TargetType, TargetID, PosY, PosZ, Frame, StartFrame, FrameCount)
 任意角色开始读条时被调用
