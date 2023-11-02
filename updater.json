@@ -1,15 +1,15 @@
 [
     { "path": "/UI/Text.ini", "hash":"5e5dc03c017d15ae1c1e1fbcbccfab978899db2d", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmSAkHPHdd7AkqNT5CS8ubNhoKcnNxgvmejmcA4FGSNpWR" },
     { "path": "/UI/Tip.ini", "hash":"3ecf320dfef3f9c3b39cbbcb60ede5c2b1d3be2d", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmWfmFxdedVJXWqmq6WEp29jBD6RH6n1iTBZRtB5rLqGYW" },
-    { "path": "/Log.exe", "hash":"3d3b6e6111082e1d52a83a0cd2b3d7724845bb1f", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmbkFW5HhSxKp9qMx7eobp57RWoAGnwpBBvUiWJ6DSLwrt" },
+    { "path": "/Log.exe", "hash":"a072a3e8fd854f55bfbc9cb18130a35b8b56f7f6", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmTXwmz8RHmtQ72CXjWy1J8bei7e5ZZ9m7HxqivNfiW6Y8" },
     { "path": "/Data/c.txt", "hash":"50cc25e4237e4560f9e0fb18af047806e078dd0c", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmVbb5vPvQkvupA6RCqyx2jhWEChuFFJeeBimDg9UaEo2k" },
     { "path": "/Data/e.dat", "hash":"e0a53cfaeb134f6585d70bf15a31513caa7b6a2d", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmfU83NkjsnTXrbcnHLD66DY7YhRRaN8u19z81phQJT3JC" },
-    { "path": "/Data/buff.txt", "hash":"0a1c927147da0c44d1d767c386671d814978c6c5", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmRsR2264f13CbHmcgr11BkQX3qLCUs8U6PqRXion7mMVg" },
+    { "path": "/Data/buff.txt", "hash":"0ff339823c3c21c283ecfd4c45f7b392f30879b3", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmdxQuG7agv8bUMkRa9XAsJ6nfywDMGcueft5G7GTTYXRe" },
     { "path": "/Data/buff_c.txt", "hash":"9715746a862feb6d6ae1aeab7f8dcf56e5113a65", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmYv9FCSXh696a6USobGZi9tsVDZNrXVkXGDCUamDaA7Hs" },
     { "path": "/Data/skill.lua", "hash":"8b7305c98282715334ea1d036b34cd8894c906ce", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmSQW1rRcMN6sRa6FgsSBWi7wkzXnMtoX5qTZjhTdWRzBr" },
     { "path": "/Data/skill_c.lua", "hash":"1ad0f369e6bc4100a11268e3ecddc7a8bb8f94b1", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmXEWXKTXDpJbQdYALPjnxyHH2V7KUmS8M4WokJhNoRJXn" },
-    { "path": "/a.bin", "hash":"716b827298744d175a5c65540c97a3e269c91ef8", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmNYfMHYrE25Ka9qNBAvu1cx7XG5dGgByDGMX8F2EtVzfS" },
-    { "path": "/b.bin", "hash":"4f5e7812a5fbfa5e1de10181e62d8e5880771355", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmZb7BaU6E6bgkjYXtKbfPKtiFsZ4rQfVdqBgGoJx218M8" },
-    { "path": "/c.bin", "hash":"623d7be5f286600b64d6aa2f78654880d8a21976", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmeN1ANbU4XWD2zkGYX2x4cxXLwsRZLvebwyReENUAJRFx" },
+    { "path": "/a.bin", "hash":"02a81798d39552460b0753756885b1cde6e6457d", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmfJJrENmzhK8RUCJEU4y4h9iJPiZSnpuQtoL9S2Mr16gw" },
+    { "path": "/b.bin", "hash":"43822cb9ffbe36bd6fd15dac942ad4bf2c0d7c8f", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/Qmcv94m2q1pUirMC4P7u44ruRgX3ZmnwdCWxYcLdA4rxsw" },
+    { "path": "/c.bin", "hash":"913093644f14d707b08ea4d20857fba87390f76b", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmXWk4HDsNL4Y9xvya8YKLVvBZt4wpFCxHQcB5Gdbx1qE3" },
     { "path": "/Macro/Lib_PVP.lua", "hash":"ac4962dc72594a151a9b6fe8ced33730af57a89e", "url":"https://099eqs.gw1.baitech-ipfs.net/ipfs/QmQM8qQqYmuDGTJFDRSWeyVBM8QTNgmYR6faySE1w4gE7d" }
 ]
