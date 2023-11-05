@@ -95,5 +95,6 @@ end
 
 ## 联系和反馈
 如果发现Bug或有建议请通过以下方式联系：  
+Keybase组: https://keybase.io/team/jx3talk
 Email: <JX3Toy@pm.me>  
 Keybase: <https://keybase.io/jx3toy>
