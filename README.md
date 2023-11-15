@@ -12,6 +12,8 @@
 
 ## 注册
 
+<font color=red>本软件是免费软件，账号系统是为了方便管理和自动更新，领取的测试币并无实际价值。</font>
+
 ### 安装 MetaMask 浏览器插件
 Edge浏览器 <https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm>  
 火狐浏览器 <https://addons.mozilla.org/zh-CN/firefox/addon/ether-metamask/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search>  
