@@ -36,9 +36,9 @@ Edge浏览器 <https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalb
 测试网的MATIC可以免费领取，以下几个网站可以领测试币，领取时网络选择 Mumbai (Polygon测试网)，如果在国内需要科学上网。  
 科学上网免费节点分享网站 <https://nodefree.org>, 软件建议用 `Clash`, 打开 `System Proxy`。
 
-<https://mumbaifaucet.com> 一次给0.5个，很快到帐，24小领一次。如果注册账号一次给1个。
-<https://faucets.tatum.io/mumbai> 0.5个, 24小时领一次。
-<https://faucet.polygon.technology> 一次给0.2个，2分钟领一次，账户中超过0.4个就不给了。
+<https://mumbaifaucet.com> 一次给0.5个，很快到帐，24小领一次。如果注册账号一次给1个。  
+<https://faucets.tatum.io/mumbai> 0.5个, 24小时领一次。  
+<https://faucet.polygon.technology> 一次给0.2个，2分钟领一次，账户中超过0.4个就不给了。  
 
 只要领成功一次就可以继续，不够用有空再领，1个就能用很久。如果实在不会弄，就找别人多领点，从钱包发送给你。
 
