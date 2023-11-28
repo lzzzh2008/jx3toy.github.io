@@ -1329,10 +1329,10 @@ end
 ```
 
 ### OnChannel(CasterID, SkillName, SkillID, SkillLevel, TargetType, TargetID, PosY, PosZ, Frame, StartFrame, FrameCount)
-开始引导时被调用(倒读条), 参数同 OnPrepare
+任意角色开始引导时被调用(倒读条), 参数同 OnPrepare
 
 ### OnCast(CasterID, SkillName, SkillID, SkillLevel, TargetType, TargetID, PosY, PosZ, StartFrame, FrameCount)
-释放技能时被调用, 参数含义同 OnPrepare。  
+任意角色释放技能时被调用, 参数含义同 OnPrepare。  
 > 瞬发技能释放过程: 按键或者宏命令使用技能 -> 发送数据到服务端 -> 服务端检查通过后释放 -> 服务端通知客户端释放 -> OnCast 触发  
 > 读条技能释放过程: 按键或者宏命令使用技能 -> 发送数据到服务端 -> 服务端检查通过后通知客户端开始读条 -> OnPrepare 触发 -> 读条结束 -> 服务端通知客户端释放 -> OnCast 触发
 
@@ -1371,13 +1371,13 @@ end
 | - | - |
 | nCurrentLife | 气血 |
 | nCurrentMana | 内力 |
-| nCurrentRage | 战意、剑气、怒气、狂意、星运、墨意 |
+| nCurrentRage | 战意、剑气、怒气、狂意、星运、墨意、弓箭数量 |
 | nCurrentEnergy | 神机值、刀魂、格挡值、锐意 |
 | nCurrentSunEnergy | 日灵 |
 | nCurrentMoonEnergy | 月灵 |
 
 ### OnFight(bFight)
-进战或脱战时被调用，进战 bFight 为 true，否则为 false
+自己进战或脱战时被调用，进战 bFight 为 true，否则为 false
 ```lua
 function OnFight(bFight)
     if bFight then
