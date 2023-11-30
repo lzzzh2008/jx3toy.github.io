@@ -20,61 +20,19 @@
 
 <https://crustgateway.online/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
 
-<https://crustipfs.art/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
-
 <https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy@main/JX3Toy.zip>
 
 <https://fastly.jsdelivr.net/gh/JX3Toy/JX3Toy@main/JX3Toy.zip>
 
-
 ## 安装
-无需安装, 解压缩到任意位置即可。如果杀毒软件误报，请自行设置排除相关文件夹。解压缩后运行更新程序，会自动下载和更新组件并启动。
-
-## 注册
-
-<font color=red>本软件是免费软件，账号系统是为了方便管理和自动更新，领取的测试币并无实际价值。</font>
-
-### 安装 MetaMask 浏览器插件
-Edge浏览器 <https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm>  
-火狐浏览器 <https://addons.mozilla.org/zh-CN/firefox/addon/ether-metamask/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search>  
-如果以上链接有变动请自行在浏览器扩展商店中搜索安装 MetaMask 扩展插件。  
-如果是Edge浏览器，安装后点击右上角扩展按钮把Metamask显示在工具栏上。
-
-### 创建钱包账户
-安装好MetaMask钱包后根据提示创建账户，**助记词尽量用笔记录在纸上，如果你是第一次接触区块链请留意以下安全提示：** 
-1. **助记词和私钥不要泄露给任何人**
-2. **当网站请求连接钱包时仔细辨别后再同意，防止被钓鱼**
-3. **交易或付款时看清楚金额再同意**
-4. **其它安全事项请自行搜索**
-
-### 连接钱包
-本页面右上角点击 <a href="/account.html" target="_blank">账号管理</a> 打开账号管理页面，点击`连接MetaMask钱包`，同意添加网络，同意连接钱包。  
-本软件构建在Polygon测试网上，Polygon是一个以太坊侧链，和以太坊的操作基本相同，gas费便宜很多。如果操作MetaMask钱包有疑问，搜索相关以太坊视频教程参考即可。
-
-### 获取测试币
-区块链操作需要 Token（代币）作为 gas（燃料），就像汽车需要加油才能开一样。polygon网络的原生代币是MATIC，账户中需要有MATIC才能和网络交互。  
-测试网的MATIC可以免费领取，以下几个网站可以领测试币，领取时网络选择 Mumbai (Polygon测试网)，如果在国内需要科学上网。  
-科学上网免费节点分享网站 <https://nodefree.org>, 软件建议用 `Clash`, 打开 `System Proxy`。
-
-<https://mumbaifaucet.com> 一次给0.5个，很快到帐，24小领一次。如果注册账号一次给1个。  
-<https://faucets.tatum.io/mumbai> 0.5个, 24小时领一次。  
-<https://faucet.polygon.technology> 一次给0.2个，2分钟领一次，账户中超过0.4个就不给了。  
-
-只要领成功一次就可以继续，不够用有空再领，1个就能用很久。如果实在不会弄，就找别人多领点，从钱包发送给你。
-
-### 领取测试USDT
-MATIC用作执行交易的手续费, USDT是货币，用于支付。  
-在账号管理页面依次点击 `添加测试USDT到钱包资产列表`, `领取测试USDT币`, 成功后钱包中会显示有500个USDT。
-
-### 注册账号
-在软件启动界面复制 `设备ID` 进行注册。  
-注册成功后充值。  
-从钱包复制账户地址到启动界面进行登录，登录成功后就可以使用了。
+绿色软件无需安装，解压缩到任意位置即可。如果杀毒软件误报，请自行设置排除相关文件夹。  
+解压缩后运行更新程序 `Updater.exe`，会自动下载和更新组件并启动。
 
 ## 使用
-在进入游戏之前启动软件，如果已经进入游戏才启动，设置的快捷键不生效，返回角色重新进游戏即可(无需重新启动)。  
+在进入游戏之前启动软件（登陆或选择角色界面）。  
+如果已经进入游戏才启动，设置的快捷键不生效，返回角色重新进游戏即可（无需重新启动）。  
 插件载入完成后启动程序会自动退出。  
-如果开启了多个游戏窗口，等待启动完成后再次启动。  
+如果开启了多个游戏窗口，等待启动完成后再启动下一个。  
 
 ### 菜单功能
 进入游戏后， 点击角色头像下方小箭头或屏幕右侧小扳手。
@@ -117,6 +75,10 @@ end
 ```
 
 ## 联系和反馈
-如果发现Bug或有建议请通过以下方式联系:  
-Keybase: <https://keybase.io/jx3toy>  
-Email: <JX3Toy@pm.me>  
+如果发现Bug或有建议请通过以下方式反馈:
+
+Keybase: <https://keybase.io/jx3toy>
+
+社区: <https://jx3toy.zulipchat.com>
+
+Email: <JX3Toy@proton.me>
