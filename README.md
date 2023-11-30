@@ -1,11 +1,31 @@
 ## 下载
-[下载链接1](https://099eqs.gw1.baitech-ipfs.net/ipfs/QmSDY9oRmppDyJ6Uh4qtciWKS7DUpPP2jJQAAW6Nxt7h4B?filename=Toy.zip)
 
-[下载链接2](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy.zip)
+<https://gw.w3ipfs.org.cn/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
 
-[下载链接3](https://pixeldrain.com/u/aHFtFd4q)
+<https://099eqs.gw1.baitech-ipfs.net/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
 
-[国际服专用](https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy/Toy_TW.zip)
+<https://crustipfs.info/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crustipfs.tech/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://jx3toy.4everland.store/JX3Toy.zip>
+
+<https://crustipfs.world/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crustipfs.mobi/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crustipfs.online/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crust.fans/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crustgateway.online/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://crustipfs.art/ipfs/QmaMF7f5EKgVvhPgrseRZ9X3EmEp6YsjaefkJkRcqzUFAL?filename=JX3Toy.zip>
+
+<https://cdn.jsdelivr.net/gh/JX3Toy/JX3Toy@main/JX3Toy.zip>
+
+<https://fastly.jsdelivr.net/gh/JX3Toy/JX3Toy@main/JX3Toy.zip>
+
 
 ## 安装
 无需安装, 解压缩到任意位置即可。如果杀毒软件误报，请自行设置排除相关文件夹。解压缩后运行更新程序，会自动下载和更新组件并启动。
