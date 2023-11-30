@@ -82,7 +82,7 @@ keybase群
 ## 联系和反馈
 如果发现Bug或有建议请通过以下方式反馈:
 
-社区: <https://jx3toy.zulipchat.com>
+社区: <https://jx3toy.zulipchat.com> ( 临时邮件可注册 )
 
 Keybase: <https://keybase.io/jx3toy>
 
