@@ -81,7 +81,7 @@ Github
 ## 联系和反馈
 如果发现Bug或有建议请通过以下方式反馈:
 
-社区: <https://jx3toy.zulipchat.com> ( 建议使用临时邮件, 但是要记住账号, 尽量不要重复注册 )
+社区: <https://jx3toy.zulipchat.com> ( 建议使用临时邮箱, 但是要记住账号, 尽量不要重复注册 )
 
 Keybase: <https://keybase.io/jx3toy>
 
