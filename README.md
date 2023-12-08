@@ -74,6 +74,9 @@ function Main()
 end
 ```
 
+### 宏命令参考
+右上角点击 <a href="/#/doc" target="_blank"> 宏命令 </a>
+
 ### 在哪下载宏
 Github  
 社区  
@@ -81,7 +84,7 @@ Github
 ## 联系和反馈
 如果发现Bug或有建议请通过以下方式反馈:
 
-社区: <https://jx3toy.zulipchat.com> ( 建议使用临时邮箱, 但是要记住账号, 尽量不要重复注册 )
+社区: <https://jx3toy.zulipchat.com> ( 建议使用临时邮箱注册, 但是要记住账号, 尽量不要重复注册 )
 
 Keybase: <https://keybase.io/jx3toy>
 
