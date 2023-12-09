@@ -990,10 +990,10 @@ end
 ### ljtime()
 连局剩余时间, 没有连局返回 -100
 
-### xinlianju("角色ID")
+### xinlianju(角色ID)
 指定角色是否在自己连局中, 有连局且指定角色在自己连局中返回真
 
-### xnolianju("角色ID")
+### xnolianju(角色ID)
 指定角色是否不在自己连局中, 有连局且指定角色不在自己连局中返回真
 
 ### tfangdeng()
