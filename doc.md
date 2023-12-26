@@ -1262,7 +1262,7 @@ actionclick(1, 1)
 ```
 
 ### interact("名字或模板ID")
-交互Doodad
+交互Doodad, 采集
 ```lua
 --吃鼎
 interact("仙王蛊鼎")
