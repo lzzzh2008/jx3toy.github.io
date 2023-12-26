@@ -1261,7 +1261,7 @@ addopt("副本防开怪", true)
 actionclick(1, 1)
 ```
 
-### interact("名字或模板ID")
+### interact("名字或模板ID列表")
 交互Doodad, 采集
 ```lua
 --吃鼎
